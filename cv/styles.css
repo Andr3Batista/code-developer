@@ -1,0 +1,22 @@
+main {
+    margin: 0 auto;
+    width: 960px;
+}
+
+.background {
+    background-image: url(imagens/header.jpg);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-size: cover;
+    background-position: center;
+}
+
+.titulo {
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
